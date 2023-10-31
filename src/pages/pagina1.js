@@ -4,7 +4,7 @@ import Layout from "../components/layout"
 const Pagina1 = () => {
   return (
     <Layout>
-      <h2 className="texto">Entre em Contato:</h2>
+      <h2 className="texto">Entre em Contato: </h2>
       <div className="container">
         <form name="form_estatico" method="post" data-netlify="true" data-netlify-honeypot="bot-field">
           <input type="hidden" name="form-name" value="form_estatico" />
