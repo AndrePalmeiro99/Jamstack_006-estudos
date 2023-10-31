@@ -10,6 +10,7 @@ export default function Layout({ children }) {
                 <h3>Estudos de Jamstack - Gatsby</h3>
                 <nav className="topnav">
                     <Link to="/">Inicio</Link>
+                    <Link to="/pagina1">Formulário estático</Link>
                 </nav>
             </div>
             <div className="main">
